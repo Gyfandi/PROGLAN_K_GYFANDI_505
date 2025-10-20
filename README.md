@@ -1,19 +1,30 @@
 # Documentation Practice
 ## _Proyek ini digunakan untuk latihan membuat dokumentasi di GitHub._
 
-🎯 Tujuan Proyek
-Proyek ini bertujuan untuk mempraktikkan dasar penggunaan **Git** dan **GitHub**, seperti:
-- Inisialisasi repository
-- Commit dan push kode ke GitHub
-- Penulisan dokumentasi dengan file `README.md`
-
 ## 🧩 Struktur Proyek
 DocumentationPractice/
-┠ Main.java
+
+┠ BubbleSort.java
+
+┖ MainApp.java
+
 ┖ README.md
 
+## 🎯 Auto Complete yang digunakan
+
+- sout
+- psvm
+- fori
+
+## 💻 Teknologi yang Digunakan
+- Java 21
+- IntelliJ IDEA
+- Git & GitHub
+
+
+
 ## ⚙️ Cara Menjalankan Program
-1. **Clone repositori ini** ke komputer kamu:
+1. **Clone repositori ini** ke komputer :
    ```bash
    git clone https://github.com/<username>/DocumentationPractice.git
 
@@ -21,16 +32,25 @@ DocumentationPractice/
     ```bash 
     cd DocumentationPractice
 
-3. **Kompilasi dan jalankan program Java:**
+3. Instal Dependensi (jika diperlukan)
+- Jika menggunakan maven
+   ```bash 
+    mvn install
+   
+- Jika menggunakan Gradle
+    ```bash 
+      gradle build
+
+4. **Kompilasi dan jalankan program Java:**
+- Untuk Maven
     ```bash
     javac Main.java
     java Main
-    
-📝 Tentang Program
-**File Main.java berisi kode Java sederhana seperti berikut:**
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, Git DocumentationPractice!");
-    }
-}
+
+- Untuk Gradle
+  ```bash
+        Gradle run
+
+## Author
+- Nama : Gyfandi Mecca Firstson Cusy
+- Nim : 202410370110505
