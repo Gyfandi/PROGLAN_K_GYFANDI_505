@@ -12,7 +12,9 @@ Proyek ini bertujuan untuk mempraktikkan dasar penggunaan **Git** dan **GitHub**
 
 ## 🧩 Struktur Proyek
 DocumentationPractice/
+
 ┠ Main.java
+
 ┖ README.md
 
 ## ⚙️ Cara Menjalankan Program
