@@ -21,6 +21,9 @@ DocumentationPractice/
 - IntelliJ IDEA
 - Git & GitHub
 
+## 📇 Cara Kerja Program
+- Program akan berjalan dengan mengurutkan data yang telah diinialisasikan di code, lalu untuk outputnya akan menampilkan data yang telah terurut dari terkecil ke terbesar
+
 
 
 ## ⚙️ Cara Menjalankan Program
